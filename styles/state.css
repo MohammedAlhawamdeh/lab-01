@@ -1,0 +1,74 @@
+#a {
+  background-color: #9dafa9;
+}
+
+#b {
+  background-color: #9dafa9;
+}
+
+#c {
+  background-color: #9dafa9;
+}
+
+#d {
+  background-color: #9dafa9;
+}
+
+#e {
+  background-color: #9dafa9;
+}
+
+#f {
+  background-color: #9dafa9;
+}
+
+#g {
+  background-color: #9dafa9;
+}
+
+#h {
+  background-color: #9dafa9;
+}
+
+#i {
+  background-color: #9dafa9;
+}
+
+/*When screen is desktop*/
+@media(min-width: 767px) {
+  #a {
+    background-color: #9dafa9;
+  }
+  
+  #b {
+    background-color: #9dafa9;
+  }
+  
+  #c {
+    background-color: #9dafa9;
+  }
+  
+  #d {
+    background-color: #9dafa9;
+  }
+
+  #e {
+    background-color: #9dafa9;
+  }
+  
+  #f {
+    background-color: #9dafa9;
+  }
+
+  #g {
+    background-color: #9dafa9;
+  }
+  
+  #h {
+    background-color: #9dafa9;
+  }
+
+  #i {
+    background-color: #9dafa9;
+  }
+}
